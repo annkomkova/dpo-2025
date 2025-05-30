@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(227, 227, 227);
+}
+.main_header {
+  color: red;
+  font-size: 36px;
+  line-height: 48px;
+}
+img {
+  width: 200px;
+}
